@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"
+
+?>
+<students>
+    <students>
+        <name>
+            Eiron Matthew Eugenio
+        </name>
+
+        <age>
+            21
+        </age>
+
+        <address>
+            Samal Bataan
+        </address>
+    </students>
+    <students>
+        <name>
+            Kiel Andrew Gavanez
+        </name>
+
+        <age>
+            23
+        </age>
+
+        <address>
+            Mariveles Bataan
+        </address>
+    </students>
+    <students>
+        <name>
+            Carmela Bautista 
+        </name>
+
+        <age>
+            20
+        </age>
+
+        <address>
+            Mabatang Bataan
+        </address>
+    </students>
+    <students>
+        <name>
+            John Lester Enriquez
+        </name>
+
+        <age>
+            23
+        </age>
+
+        <address>
+            Orion
+        </address>
+    </students>
+    <students>
+        <name>
+            Frances Riel Julio
+        </name>
+
+        <age>
+            20
+        </age>
+
+        <address>
+            Orani Bataan
+        </address>
+    </students>
+    <students>
+        <name>
+            Clarisse Justine Crisostomo
+        </name>
+
+        <age>
+            23
+        </age>
+
+        <address>
+            Abucay Bataan
+        </address>
+    </students>
+    <students>
+        <name>
+            Paul Reishen Cruz
+        </name>
+
+        <age>
+            20
+        </age>
+
+        <address>
+            Orani Bataan
+        </address>
+    </students>
+    <students>
+        <name>
+            Llyod Vincent Atienza
+        </name>
+
+        <age>
+            23
+        </age>
+
+        <address>
+            Mariveles Bataan
+        </address>
+    </students>
+</students>
