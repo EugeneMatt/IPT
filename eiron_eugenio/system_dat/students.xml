@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+    <name>
+        Clang
+    </name>
+    <age>
+        23
+    </age>
+    <address>
+        Gabon
+    </address>
+    </student>
+        <student>
+    <name>
+        Kiel
+    </name>
+    <age>
+        23
+    </age>
+    <address>
+        Alas-asin
+    </address>
+    </student>
+    <student>
+    <name>
+         Jong
+    </name>
+    <age>
+         23
+    </age>
+    <address>
+         Bantan
+    </address>
+    </student>
+</students>

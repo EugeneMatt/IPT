@@ -1,0 +1,17 @@
+[
+    {
+    "name":"Clang",
+    "age":23,
+    "address":"Gadon"
+    },
+    {
+        "name":"Kiel",
+        "age":23,
+        "address":"Alas-asin"
+    },
+    {
+        "name":"Jong",
+        "age":23,
+        "address":"Bantan"
+    }
+]
