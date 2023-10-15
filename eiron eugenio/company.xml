@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee>
+        <firstname></firstname>
+        <lastname></lastname>
+        <contactno></contactno>
+        <email></email>
+        <address>
+            <city></city>
+            <state></state>
+            <zip></zip>
+        </address>
+    </employee>
+</company>

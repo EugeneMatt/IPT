@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Clarisse Crisostomo",
+        "age":16,
+        "address":"Abucay"
+    },
+    {
+        "name":"John Lester Enriquez",
+        "age":23,
+        "address":"Orion"
+    },
+    {
+        "name":"Kiel Andrew Gavanez",
+        "age":23,
+        "address":"Mariveles"
+    },
+    {
+        "name":"Eiron Matthew Eugenio",
+        "age":21,
+        "address":"Samal"
+    },
+    {
+        "name":"Carmela Nicole Bautista",
+        "age":21,
+        "address":"Mabatang"
+    }
+]

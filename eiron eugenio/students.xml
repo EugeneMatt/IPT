@@ -1,0 +1,44 @@
+<?xml  version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+
+<students>
+    <student>
+        <name>Clarisse Justine Crisostomo</name>
+        <age>23</age>
+        <address>Abucay Bataan</address>
+    </student>
+    <student>
+        <name>John Lester Enriquez</name>
+        <age>23</age>
+        <address>Orion Bataan</address>
+    </student>
+    <student>
+        <name>Eiron Matthew Eugenio</name>
+        <age>21</age>
+        <address>Samal Bataan</address>
+    </student>
+    <student>
+        <name>Carmela Nicole Bautista</name>
+        <age>20</age>
+        <address>Mabatang Bataan</address>
+    </student>
+    <student>
+        <name>Frances Riel Julio</name>
+        <age>20</age>
+        <address>Orani Bataan</address>
+    </student>
+    <student>
+        <name>Kiel Andrew Gavanez</name>
+        <age>23</age>
+        <address>Mariveles Bataan</address>
+    </student>
+    <student>
+        <name>Lloyd Vincent Atienza</name>
+        <age>23</age>
+        <address>Mariveles Bataan</address>
+    </student>
+    <student>
+        <name>Paul Reishen Cruz</name>
+        <age>20</age>
+        <address>Orani Bataan</address>
+    </student>
+</students>

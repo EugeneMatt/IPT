@@ -1,0 +1,9 @@
+<!ELEMENT books (book)>
+<!ELEMENT book (title, authors, number_of_pages, publisher)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT authors (author)>
+<!ELEMENT author (name, age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT number_of_pages (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>

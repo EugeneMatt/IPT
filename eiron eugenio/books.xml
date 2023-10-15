@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+    <book>
+        <title>The Giver</title>
+        <authors>
+            <author>
+                <name>Lois Lowry</name>
+                <age>86</age>
+            </author>
+        </authors>
+        <number_of_pages>208</number_of_pages>
+        <publisher>Houghton Mifflin</publisher>
+    </book>
+    <book>
+        <title>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</title>
+        <authors>
+            <author>
+                <name>Sir Terence David John Pratchett</name>
+                <age>66</age>
+            </author>
+            <author>
+                <name>Neil Richard MacKinnon Gaiman</name>
+                <age>62</age>
+            </author>
+        </authors>
+        <number_of_pages>288</number_of_pages>
+        <publisher>Gollancz</publisher>
+    </book>
+</books>
