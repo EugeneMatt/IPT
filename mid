@@ -1,0 +1,27 @@
+in "delete function" - PUT
+public function delete(string $id)
+    {
+        $book = Book::findOrFail($id);
+        if($book != null) {
+            $book->delete();
+            return response (["message"=>"successfully deleted","success"=>"true"], 200);
+        } else {
+            return response (["message"=>"record not found","success"=>"false"]);
+
+Route::post('/book', [BookController::class, 'store'])->middleware('auth:sanctum');
+Route::put('/book/{id}', [BookController::class, 'update'])->middleware('auth:sanctum');
+Route::delete('/book/{id}', [BookController::class, 'delete'])->middleware('auth:sanctum');
+
+GOTO BookController - put function byTitle
+public function byTitle($title)
+    {
+        $title = Book::where('title',$title)->get();
+        return response($title);
+    }
+
+GOTO BookController - put function byAuthor
+public function byAuthor($author)
+    {
+        $author = Book::where('author',$author)->get();
+        return response($author);
+    }
